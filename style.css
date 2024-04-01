@@ -1,0 +1,38 @@
+ /* Tablet */
+ @media screen and (min-width: 768px) {
+    .card {
+      flex: 1 0 30%;
+      max-width: 17.625rem;
+    }
+  }
+
+  /* Desktop */
+  @media screen and (min-width: 1024px) {
+    .card {
+      flex: 1 0 20%;
+    }
+  }
+
+h1{
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: black;
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
