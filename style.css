@@ -1,3 +1,4 @@
+
  /* Tablet */
  @media screen and (min-width: 768px) {
     .card {
@@ -14,25 +15,40 @@
   }
 
 h1{
-    color: black;
-    text-align: center;
-    align-items: center;
-    font-family: 'Times New Roman', Times, serif;
+  font-size: 70px;
+  color: #4b96a0;
+  text-align: center;
+  align-items: center;
 }
 
 h2{
-    color: black;
-    font-size: large;
-    text-align: center;
-    align-items: center;
-    font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: #3c7839;
+  text-align: center;
+  align-items: center;
 }
 
 h3{
-    color: black;
-    font-size: 30px;
-    text-align: center;
-    align-items: center;
-    font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color: #4b96a0;
+  text-align: center;
+  align-items: center;
 }
 
+p{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  align-items: center;
+}
+
+html{
+  background-color: #a6d6dd;
+}
+
+h4{
+  font-size: 20px;
+  color: #3c7839;
+  text-align: center;
+  align-items: center;
+}
